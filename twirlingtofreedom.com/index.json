@@ -27,7 +27,10 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "background.sh",
+      "code": "foreground.sh",
+      "credits": "PagerDuty Community Team"
     },
     "finish": {
       "text": "finish.md"
