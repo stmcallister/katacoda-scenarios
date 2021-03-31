@@ -1,5 +1,5 @@
 {
-  "title": "Twirling Towards Freedom",
+  "title": "Twirling Towards Terraform Freedom",
   "description": "",
   "difficulty": "Beginner",
   "time": "60 minutes",
@@ -37,6 +37,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "ubuntu:2004"
+    "imageid": "ubuntu:1804"
   }
 }
